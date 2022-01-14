@@ -1,0 +1,237 @@
+ .u-section-1 {
+  background-image: url("../images/high-angle-shot-beautiful-forest-with-lot-green-trees-enveloped-fog-new-zealand_181624-197171.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 755px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 6rem;
+  font-family: Roboto, sans-serif;
+  font-weight: 700;
+  margin: 458px 20px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 622px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 7.5rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 699px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 6rem;
+    margin-top: 403px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 623px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 5rem;
+    margin-top: 359px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 572px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.25rem;
+    margin-top: 343px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 663px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 2.75rem;
+  margin: 46px auto 0;
+}
+
+.u-section-2 .u-video-1 {
+  height: 360px;
+  width: 640px;
+  margin: 24px auto 60px;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 607px;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 304px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 191px;
+    margin-top: 40px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 663px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 2.75rem;
+  margin: 47px auto 0;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  font-size: 1.875rem;
+  margin: 20px auto 0;
+  padding: 38px 31px 39px 30px;
+}
+
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  border-style: none;
+  font-size: 1.875rem;
+  margin: 20px auto 0;
+  padding: 38px 31px 39px 30px;
+}
+
+.u-section-3 .u-btn-3 {
+  background-image: none;
+  border-style: none;
+  font-size: 1.875rem;
+  margin: 20px auto 60px;
+  padding: 38px 31px 39px 30px;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    font-size: 1.875rem;
+  }
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 663px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 2.75rem;
+  margin: 48px auto 0;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  font-size: 1.875rem;
+  margin: 61px auto 60px;
+  padding: 38px 31px 39px 30px;
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-1 {
+    font-size: 1.875rem;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 1169px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 2.75rem;
+  margin: 48px auto 0;
+}
+
+.u-section-5 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  font-size: 1.875rem;
+  margin: 93px auto 0;
+  padding: 38px 31px 39px 30px;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 48px auto 0;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 17px 0 0;
+}
+
+.u-section-5 .u-text-4 {
+  text-align: justify;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-5 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-text-6 {
+  text-align: justify;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-text-7 {
+  text-align: justify;
+  margin: 20px auto 20px 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
